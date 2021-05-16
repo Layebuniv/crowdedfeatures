@@ -1,6 +1,6 @@
 %% filter crowded feaures algorithms
 % Abdesslem Layeb 
-% citation: Abdesslem Layeb:Two novel features selection algorithms based on crowding distance
+% citation: Abdesslem Layeb:Two novel feature selection algorithms based on crowding distance
 %https://arxiv.org/abs/2105.05212
 % LISIA lab., Computer science and its application department, 
 %NTIC faculty, university of Constantine 2
